@@ -1,0 +1,16 @@
+{
+	"components": {
+		"0": {"index": 0, "texture": 0},
+		"1": {"index": 0, "texture": 0},
+		"2": {"index": 4, "texture": 0},
+		"3": {"index": 11, "texture": 0},
+		"4": {"index": 15, "texture": 0},
+		"5": {"index": 0, "texture": 0},
+		"6": {"index": 9, "texture": 0},
+		"7": {"index": -1, "texture": 0},
+		"8": {"index": -1, "texture": 0},
+		"9": {"index": -1, "texture": 0},
+		"10": {"index": 0, "texture": 0},
+		"11": {"index": 15, "texture": 0},
+	}
+}
